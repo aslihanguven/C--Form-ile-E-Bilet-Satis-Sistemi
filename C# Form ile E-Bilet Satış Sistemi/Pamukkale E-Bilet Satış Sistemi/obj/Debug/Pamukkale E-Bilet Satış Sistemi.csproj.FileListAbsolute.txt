@@ -1,0 +1,35 @@
+C:\Users\Mesut EROL\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\bin\Debug\Pamukkale E-Bilet Satış Sistemi.exe
+C:\Users\Mesut EROL\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\bin\Debug\Pamukkale E-Bilet Satış Sistemi.pdb
+C:\Users\Mesut EROL\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale_E_Bilet_Satış_Sistemi.Form1.resources
+C:\Users\Mesut EROL\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale_E_Bilet_Satış_Sistemi.Properties.Resources.resources
+C:\Users\Mesut EROL\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.csproj.GenerateResource.Cache
+C:\Users\Mesut EROL\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.exe
+C:\Users\Mesut EROL\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.pdb
+C:\Users\Mesut EROL\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Mesut EROL\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.exe
+C:\Users\Mesut EROL\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.pdb
+C:\Users\Mesut EROL\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\bin\Debug\Pamukkale E-Bilet Satış Sistemi.exe
+C:\Users\Mesut EROL\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\bin\Debug\Pamukkale E-Bilet Satış Sistemi.pdb
+C:\Users\Mesut EROL\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Mesut EROL\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale_E_Bilet_Satış_Sistemi.Properties.Resources.resources
+C:\Users\Mesut EROL\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.csproj.GenerateResource.Cache
+C:\Users\Mesut EROL\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale_E_Bilet_Satış_Sistemi.seferForm.resources
+C:\Users\Mesut EROL\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale_E_Bilet_Satış_Sistemi.mainForm.resources
+C:\Users\Orçun\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.exe
+C:\Users\Orçun\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.pdb
+C:\Users\Orçun\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\bin\Debug\Pamukkale E-Bilet Satış Sistemi.exe
+C:\Users\Orçun\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\bin\Debug\Pamukkale E-Bilet Satış Sistemi.pdb
+C:\Users\Orçun\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Orçun\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale_E_Bilet_Satış_Sistemi.mainForm.resources
+C:\Users\Orçun\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale_E_Bilet_Satış_Sistemi.Properties.Resources.resources
+C:\Users\Orçun\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale_E_Bilet_Satış_Sistemi.seferForm.resources
+C:\Users\Orçun\Desktop\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.csproj.GenerateResource.Cache
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\bin\Debug\Pamukkale E-Bilet Satış Sistemi.exe
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\bin\Debug\Pamukkale E-Bilet Satış Sistemi.pdb
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale_E_Bilet_Satış_Sistemi.mainForm.resources
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale_E_Bilet_Satış_Sistemi.Properties.Resources.resources
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale_E_Bilet_Satış_Sistemi.seferForm.resources
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.csproj.GenerateResource.Cache
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.exe
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Pamukkale E-Bilet Satış Sistemi\Pamukkale E-Bilet Satış Sistemi\obj\Debug\Pamukkale E-Bilet Satış Sistemi.pdb
